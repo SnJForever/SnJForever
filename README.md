@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on AIT(artificial intelligence technology)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
@@ -22,9 +21,6 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SnJForever&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SnJForever&icon=0&color=0)](https://visitcount.itsvg.in)
