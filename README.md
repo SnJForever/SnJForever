@@ -1,7 +1,11 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on AIT(artificial intelligence technology)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+<br>🔭 I have been engaged in big data technology development for a long time
+<br>🌱 I’m currently learning AIT(artificial intelligence technology)
+<br>💬 Ask me about big data related technology
+<!-- <br>⚡ Fun fact  -->
+<!-- <br>👯 I’m looking to collaborate on AIT group  -->
+<!-- <br>🤝 I’m looking for help with  -->
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/NVyNNQ9AUy) 
